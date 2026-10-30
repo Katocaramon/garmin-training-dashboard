@@ -1,0 +1,10 @@
+# Segreti e dati personali: non devono mai finire online
+.env.local
+.env
+data/
+dashboard.html
+settings.json
+
+# File di sistema
+__pycache__/
+.DS_Store
